@@ -23,13 +23,14 @@
         <div id="menu-btn" class="fas fa-bars"></div>
     </section>
 
+
     <section class="home">
 
         <div class="swiper home-slider">
 
             <div class="swiper-wrapper">
 
-                <div class="swiper-slide slide" style="background:url(images/home-slide-1.jpg) no-repeat">
+                <div class="swiper-slide slide" style=" background:url(images/about_img_1.jgp) no-repeat;">
                     <div class="content">
                         <p style="color:red;">Hello</p>
                         <span>explore, discover, travel</span>
@@ -38,7 +39,7 @@
                     </div>
                 </div>
 
-                <div class="swiper-slide slide" style="background:url(images/home-slide-2.jpg) no-repeat">
+                <div class="swiper-slide slide" style="background:url(images/home_slide_2.jpg) no-repeat;">
                     <div class="content">
                         <span>explore, discover, travel</span>
                         <h3>discover the new places</h3>
@@ -46,7 +47,7 @@
                     </div>
                 </div>
 
-                <div class="swiper-slide slide" style="background:url(images/home-slide-3.jpg) no-repeat">
+                <div class="swiper-slide slide" style="background:url(images/home_slide_2.jpg) no-repeat;" >
                     <div class="content">
                         <span>explore, discover, travel</span>
                         <h3>make your tour worthwhile</h3>
@@ -63,9 +64,7 @@
 
     </section>
 
-    <!-- home section ends -->
 
-    <!-- services section starts  -->
 
     <section class="services">
 
